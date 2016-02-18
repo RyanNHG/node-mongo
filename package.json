@@ -1,0 +1,27 @@
+{
+  "name": "node-mongo",
+  "version": "1.0.0",
+  "description": "A starter project for learning nodejs and mongodb",
+  "main": "script.js",
+  "dependencies": {
+    "mongodb": "^2.1.7"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node script.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ryannhg/node-mongo.git"
+  },
+  "keywords": [
+    "nodejs",
+    "mongodb"
+  ],
+  "author": "Ryan Haskell-Glatz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ryannhg/node-mongo/issues"
+  },
+  "homepage": "https://github.com/ryannhg/node-mongo#readme"
+}
